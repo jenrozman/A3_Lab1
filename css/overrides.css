@@ -135,7 +135,7 @@ li > p { margin-bottom: 5px; font-family: arial, helvetica, sans-serif; }
 
 sup { font-size: 0.7em; }
 
-.focusMini {
+.focusMini{
 	opacity:1;
 	z-index: 1000;
 	top:190px;
