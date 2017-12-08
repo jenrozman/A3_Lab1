@@ -18,9 +18,9 @@ function changeCar() {
 
 
 
-//console.log('halp');
+ /*//console.log('halp');
     //set the ajax call - handle the errors first
-  /*if (!httpRequest){
+ if (!httpRequest){
     alert('giving up, your browser sucks');
     return false;
       }
